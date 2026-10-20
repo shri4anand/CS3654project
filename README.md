@@ -27,3 +27,9 @@ python -m src.frontend.app
 
 The dashboard is available at <http://127.0.0.1:8050/>. It uses a separate port
 from the backend, so both applications can run concurrently.
+
+## Docker and Cloud Run
+
+See the [dummy Docker and Cloud Run deployment guide](docs/cloud-run.md) for
+illustrative commands for deploying the backend and frontend as separate
+Cloud Run services.
