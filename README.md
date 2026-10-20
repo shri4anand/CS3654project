@@ -14,8 +14,9 @@ pip install -r requirements.txt
 uvicorn src.backend.main:app --reload
 ```
 
-The hello-world endpoint is available at <http://127.0.0.1:8000/>. Interactive
-API documentation is available at <http://127.0.0.1:8000/docs>.
+The hello-world endpoint is available at <http://127.0.0.1:8000/>. 
+
+Interactive API documentation is available at <http://127.0.0.1:8000/docs>.
 
 ## Frontend
 
