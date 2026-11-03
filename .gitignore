@@ -70,3 +70,5 @@ Thumbs.db
 # Local tooling and secrets
 .python-version
 .envrc
+
+/data
